@@ -13,7 +13,7 @@
     <!-- import the webpage's javascript file -->
     <script src="/script.js" defer></script>
   </head>  
-  <body>
+  <body  onload="guess()">
     <h1>Light and Sound Memory Game</h1>
     
     <p>
@@ -23,19 +23,17 @@
       </button>
       <button id="stopBtn" class="hidden" onclick="stopGame()">
         Stop
-      </button>
+      </button><br>
       
       <div id="gameButtonArea">
         <button id="button1" onmousedown="startTone(1)" onmouseup="stopTone()" onclick="guess(1)"></button>
         <button id="button2" onmousedown="startTone(2)" onmouseup="stopTone()" onclick="guess(2)"></button>
         <button id="button3" onmousedown="startTone(3)" onmouseup="stopTone()" onclick="guess(3)"></button>
         <button id="button4" onmousedown="startTone(4)" onmouseup="stopTone()" onclick="guess(4)"></button>
+        <button id="button5" onmousedown="startTone(5)" onmouseup="stopTone()" onclick="guess(5)"></button>
       </div>
     </p>
 
 
   </body>
 </html>
-<!-- 6:30 - 7:15
-    8:00 - 
--->
