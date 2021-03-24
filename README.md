@@ -40,10 +40,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:<br>
 
+Here's a walkthrough of implemented user stories:<br>
+losing game:<br>
 <img src="http://g.recordit.co/DsRAsEOe0v.gif" width=250><br>
+winning game:<br>
 <img src="http://g.recordit.co/RHxktuluOB.gif" width=250><br>
+stopping game:<br>
 <img src="http://g.recordit.co/rfsf4FHBuq.gif" width=250><br>
-
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
