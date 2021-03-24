@@ -51,12 +51,12 @@ stopping game:<br>
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
 
-https://encycolorpedia.com/ - color codes
-https://www.w3schools.com/cssref/pr_text_color.asp - color codes implementation
-https://stackoverflow.com/questions/10107995/how-to-output-a-javascript-variables-value-inside-html - printing var in js on html
-https://stackoverflow.com/questions/40858456/how-to-display-a-javascript-var-in-html-body - printing var in js on html
-https://docs.readme.com/docs/linking-to-pages - hyper linking
-https://gist.github.com/shaunlebron/746476e6e7a4d698b373 - new line
+https://encycolorpedia.com/ - color codes<br>
+https://www.w3schools.com/cssref/pr_text_color.asp - color codes implementation<br>
+https://stackoverflow.com/questions/10107995/how-to-output-a-javascript-variables-value-inside-html - printing var in js on html<br>
+https://stackoverflow.com/questions/40858456/how-to-display-a-javascript-var-in-html-body - printing var in js on html<br>
+https://docs.readme.com/docs/linking-to-pages - hyper linking<br>
+https://gist.github.com/shaunlebron/746476e6e7a4d698b373 - new line<br>
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
 
